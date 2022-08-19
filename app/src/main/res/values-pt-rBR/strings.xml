@@ -1,4 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Meu Primeiro App</string>
+    <string name="app_name">Meu Primeiro App - Simulador</string>
+
+    <string name="cd_simulador">Botão de Simulação de Partidas</string>
+    <string name="cd_home_team">Imagem do time mandante.</string>
+    <string name="dc_away_team">Imagem do time visitante.</string>
 </resources>
